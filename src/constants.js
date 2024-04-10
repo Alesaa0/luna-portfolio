@@ -15,6 +15,6 @@ export const dialogueData = {
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
   Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. `,
   library: `There are a lot of programming books on my shelves.
-  What programmer doesn't have a 黑皮书 on their shelf?`,
+  What programmer doesn't have a 黑皮书 on her/his shelf?`,
   exit: `If you want to exit Luna's portfolio, just close the tab.`,
 };
