@@ -2,7 +2,7 @@
 
 Welcome! This is my attempt to introduce myself briefly in the form of a game. Have a nice trip!
 
-![A screenshot of the project](./developerportfoliothumbnail.png)
+![A screenshot of the project](./developerportfolio.png)
 
 # How to run
 
