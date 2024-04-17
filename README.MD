@@ -1,6 +1,7 @@
 # Developer portfolio that's a 2D game
 
 Welcome! This is my attempt to introduce myself briefly in the form of a game. Have a nice trip!
+Live Demo: https://luna-portfolio-ml71zzqu9-alesaa0s-projects.vercel.app
 
 ![A screenshot of the project](./developerportfolio.png)
 
